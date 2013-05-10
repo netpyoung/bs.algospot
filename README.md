@@ -17,3 +17,5 @@ bookstudy.algospot
 
 # 참고자료
  - [저자사이트] : http://book.algospot.com/
+ - [JMBook:문제들] : http://algospot.com/wiki/read/JMBook_문제들_링크
+ - [K-Lisper:study:algorithms] : http://clojure.or.kr/wiki/doku.php?id=study:algorithms
